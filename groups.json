@@ -1,0 +1,16 @@
+[
+    {
+        "groupTitle": "Almanya",
+        "groups": [
+            "Grup 1",
+            "Grup 2",
+            "Grup 3"
+        ]
+    },
+    {
+        "groupTitle": "Türkiye",
+        "groups": [
+            "Grup 3"
+        ]
+    }
+]

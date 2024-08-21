@@ -1,0 +1,12 @@
+Aşagıdaki Adımlara göre botu başlata bilir ve kullanabilirsiniz
+
+1: Aşagıdaki Adımlara göre botu başlata bilirsiniz
+a = cd  C:\Users\username\Desktop\wpbot (ornek kısımdır kendinize gore duzenleyiniz)
+b = .venv\Scripts\activate (windows için)
+c = pip install -r requirements.txt
+ bu adımlardan sonra ikinci adıma geçebilirz
+
+2: sadece başlatıgınız komut kısmına 
+streamlit run app.py
+
+bu adımlardan sonra botu kullanabilirsiniz
